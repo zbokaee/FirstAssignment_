@@ -31,9 +31,14 @@ Here, you can see the plot for line-search-optimization:
 
 ![My Image](Figure_3.png)
 
+
+
 <br/>
 <br/>
 
 Lastly, I provided the picture for Gradient-descent algorithm:
 ![My Image](Figure_4.png)
 
+<br/>
+<br/>
+:ok_hand: My answers for-artificial-intelligence-a-modern-approach are in "AI" folder. 
