@@ -1,6 +1,6 @@
 :relaxed:	 In this repo, you can find my answers to unit 1 and unit 4 questions of the book Artificial Intelligence a Modern Approach by Stuart Russell and Peter Norvig.
 <br/>
-:slightly_smiling_face: You can also find the implementation for some searching algorithms that lie on the book, including stochastic-hill-climbing, Random Walk, MAXSAT, BFS search, Random-Restart, and line-search-optimization.
+:slightly_smiling_face: You can also find the implementation for some searching algorithms that lie on the book, including stochastic-hill-climbing, Random Walk, MAXSAT, BFS search, Random-Restart, Gradient-decent, and line-search-optimization.
 <br/>
 
 ```diff
