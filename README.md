@@ -30,3 +30,10 @@ The plot for Random walk algorithm:
 Here, you can see the plot for line-search-optimization:
 
 ![My Image](Figure_3.png)
+
+<br/>
+<br/>
+
+Lastly, I provided the picture for Gradient-descent algorithm:
+![My Image](Figure_4.png)
+
